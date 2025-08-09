@@ -16,14 +16,11 @@ This app allows you to **add tasks**, **mark them as completed**, and **delete t
 
 ## 📸 Screenshots
 
-### 1️⃣ Initial View
-![To-Do App Initial](images/screenshorts/1.png)
-
-### 2️⃣ Tasks Added
-![To-Do App with Tasks](images/screenshorts/2.png)
-
-### 3️⃣ Completed Tasks
-![To-Do App Completed](images/screenshorts/3.png)
+<p align="center">
+  <img src="images/screenshorts/1.png" alt="To-Do App Initial" width="300">
+  <img src="images/screenshorts/2.png" alt="To-Do App with Tasks" width="300">
+  <img src="images/screenshorts/3.png" alt="To-Do App Completed" width="300">
+</p>
 
 ---
 
