@@ -10,20 +10,20 @@ This app allows you to **add tasks**, **mark them as completed**, and **delete t
 - ✅ Mark tasks as complete
 - ❌ Delete unwanted tasks
 - 📱 Responsive design
-- 💾 Local storage support (optional if implemented)
+- 💾 Local storage support
 
 ---
 
 ## 📸 Screenshots
 
 ### 1️⃣ Initial View
-![To-Do App Initial](images/initial.png)
+![To-Do App Initial](images/screenshorts/1.png)
 
 ### 2️⃣ Tasks Added
-![To-Do App with Tasks](images/tasks-added.png)
+![To-Do App with Tasks](images/screenshorts/2.png)
 
 ### 3️⃣ Completed Tasks
-![To-Do App Completed](images/completed-tasks.png)
+![To-Do App Completed](images/screenshorts/3.png)
 
 ---
 
